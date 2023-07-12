@@ -6,6 +6,7 @@
 //
 
 import UIKit
+import AMoAd
 
 class ViewController: UIViewController {
 
